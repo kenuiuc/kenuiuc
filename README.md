@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hello, My name is Ken <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-- I'm a Java developer with 2+ years experience
-- I got both Computer Science and Data Science degrees
-- Looking for a backend developer job in Canada now! 🚀
+#### Looking for a `Java Developer` job in Canada now! 🚀
+- I'm a Java Developer with 2+ years experience
+- Got Computer Science and Data Science degrees
 - Please see my [Resume](http://tinyurl.com/ken-resume) and [Linkedin](http://linkedin.com/in/kenuiuc)
