@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **kenuiuc/kenuiuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello, My name is Ken <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+- I'm a Java developer with 2+ years experience
+- I got both Computer Science and Data Science degrees
+- Looking for a backend developer job in Canada now! 🚀
+- Please see my [Resume](http://tinyurl.com/ken-resume) and [Linkedin](http://linkedin.com/in/kenuiuc)
